@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fad8dea909fb21c469eda8513f883067, type: 3}
+  m_Name: Silas_DoubleJump_Normal
+  m_EditorClassIdentifier: 
+  canDoubleJump: 0
+  JumpForce: 500
+  Gravity:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0.9204797
+      outSlope: 0.9204797
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.03230148
+    - serializedVersion: 3
+      time: 0.45921704
+      value: 0.26057667
+      inSlope: 0.19174628
+      outSlope: 0.19174628
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.084697865
+    - serializedVersion: 3
+      time: 1
+      value: 0.3
+      inSlope: -0.012215993
+      outSlope: -0.012215993
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.10438513
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  Pull:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.0013389587
+      value: 0
+      inSlope: 0.46109852
+      outSlope: 0.46109852
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.081898235
+    - serializedVersion: 3
+      time: 1
+      value: 0.25242004
+      inSlope: -0.0060672956
+      outSlope: -0.0060672956
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.15924692
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
