@@ -21,11 +21,11 @@ The game was heavily inspired by:
  - [BoscaCeoil](https://boscaceoil.net/)
  - Agile Kaban Board
 
-# Art
+# Art![Silas_Head](https://github.com/christoparadis/Silas/blob/main/Assets/Assets_Models/UI/Health/_ilas_Head.png?raw=true) 
 
 All of the 3d models and pixel art were made by me as well.
 Being my first time modeling and animating, I used blender and photoshop for all of the assets/sprites for their ease of use.
-![Boar](https://github.com/christoparadis/Silas/blob/main/Assets/Assets_Models/UI/Health/_ilas_Head.png?raw=true) 
+
 ![Silas](https://photos.app.goo.gl/QeKovo2z3vYjeeAG8)
 > **Note:** There is an easter egg hidden in the game, can you find it?
 
