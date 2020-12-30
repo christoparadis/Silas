@@ -1,17 +1,17 @@
-# Silas
+# ![Silas_Head](https://github.com/christoparadis/Silas/blob/main/Assets/Assets_Models/UI/Health/_ilas_Head.png?raw=true) Silas
 
 Hi! This game was made along side a final for COMP3770 (Game Development). 
 A simple 2.5d platformer that utilizes procedural platform generation and finite state machine.
 
 
-## Inspiration 
+## ![Silas_Teleport](https://github.com/christoparadis/Silas/blob/main/Assets/Assets_Models/UI/PowerUps/PowerUP_UI_Teleport.png?raw=true) Inspiration 
 
 The game was heavily inspired by:
  - Ori and the Blind Forest
  - Super Mario Galaxy
  - Shovel Knight
 
-## Programs used
+## ![Silas_FireBall](https://github.com/christoparadis/Silas/blob/main/Assets/Assets_Models/UI/PowerUps/PowerUP_UI_Fire.png?raw=true) Programs Used
 
  - Unity High-Definition Render Pipeline (**C#**)
  - Visual Studio Code / Intellij 
@@ -21,7 +21,7 @@ The game was heavily inspired by:
  - [BoscaCeoil](https://boscaceoil.net/)
  - Agile Kaban Board
 
-# Art![Silas_Head](https://github.com/christoparadis/Silas/blob/main/Assets/Assets_Models/UI/Health/_ilas_Head.png?raw=true) 
+# Art ![Silas_Head](https://github.com/christoparadis/Silas/blob/main/Assets/Assets_Models/UI/Health/_ilas_Head.png?raw=true) 
 
 All of the 3d models and pixel art were made by me as well.
 Being my first time modeling and animating, I used blender and photoshop for all of the assets/sprites for their ease of use.
