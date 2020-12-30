@@ -28,9 +28,6 @@ All of the 3d models and pixel art were made by me as well.
 Being my first time modeling and animating, I used blender and photoshop for all of the assets/sprites for their ease of use.
 ![Silas_Frog](https://github.com/christoparadis/Silas/blob/main/ReadmePicture/04d764328194c428a12fd91e28e08ab5.png?raw=true)
 ![Silas_Hog](https://github.com/christoparadis/Silas/blob/main/ReadmePicture/2e7174ec5448741dda062578dca256fe.png?raw=true)
-
-
-![Silas](https://photos.app.goo.gl/QeKovo2z3vYjeeAG8)
 > **Note:** There is an easter egg hidden in the game, can you find it?
 
 
